@@ -1,2 +1,2 @@
-# realworld-cicd-pipeline-project
+# jenkins-cicd-pipeline-project
 realworld-cicd-pipeline-project
